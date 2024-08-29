@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+He/Him
+Freshman on Game Developing and Programming
+Working on Phython|Java|C++
+Welcome to the my Profile I Guess
 <!--
 **Vylesh/Vylesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
