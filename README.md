@@ -2,7 +2,7 @@
 
 He/Him
 Freshman on Game Developing and Programming
-Working on Phython|Java|C++
+Working on Python|Java|C++|Ruby|HTML+CSS(with W3 and Bootstrap)+JS (Anime.js or W3)
 Welcome to the my Profile I Guess
 <!--
 **Vylesh/Vylesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
